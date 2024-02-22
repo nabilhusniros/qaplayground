@@ -4,8 +4,12 @@ QA Playground using pytest and selenium
 
 ## Description
 
-This project to showcases my practical test automation skills acquired through the QA Playground (https://qaplayground.dev/) exercise using Pytest and Selenium. It demonstrates finding and verifying elements to solidify automation concepts.
-As for now I only completed the mini web app dynamic table and will complete the rest of the mini web apps in the future
+This project showcases my practical test automation skills acquired through the QA Playground (https://qaplayground.dev/) exercise using Pytest and Selenium. It demonstrates finding and verifying elements to solidify automation concepts.
+
+**Project Structure:**
+
+* **pages:** This folder acts as a Python package and contains helper functions for interacting with specific QA Playground pages. For example, `qa_playground.py` provides methods to interact with the homepage elements.
+* **test:** This folder contains pytest test cases. `conftest.py` holds shared fixtures like browser setup and test data, while individual test files like `dynamic_table.py` focus on automating specific exercises.
 
 ### Installing
 
