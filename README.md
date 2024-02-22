@@ -23,7 +23,7 @@ As for now I only completed the mini web app dynamic table and will complete the
 2. Run the pytest suite:
     python -m pytest
 3. To run a single file
-    pytonh -m pytest test/home_page.py
+    python -m pytest test/home_page.py
 
 ## Authors
 1. https://qaplayground.dev/ created by Marko Simic
