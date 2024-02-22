@@ -1,6 +1,6 @@
 # Project Title
 
-QA Playground
+QA Playground using pytest and selenium
 
 ## Description
 
