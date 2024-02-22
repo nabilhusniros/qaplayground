@@ -30,6 +30,6 @@ As for now I only completed the mini web app dynamic table and will complete the
 2. Tester @nabilhusniros
 
 ## Potential Future Explorations
-*Consider automating other QA Playground exercises to further refine my skills.
-*Explore handling more complex scenarios like pagination, sorting, and filtering within the mini web apps
-*Experiment with different locators and strategies for enhanced robustness.
+* Consider automating other QA Playground exercises to further refine my skills.
+* Explore handling more complex scenarios like pagination, sorting, and filtering within the mini web apps
+* Experiment with different locators and strategies for enhanced robustness.
