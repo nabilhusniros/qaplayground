@@ -15,8 +15,8 @@ This project showcases my practical test automation skills acquired through the 
 
 1. Ensure Python and pip are installed (https://www.python.org/downloads/)
 2. Install required dependencies:
-     pip install pytest
-     pip install selenium
+* pip install pytest
+* pip install selenium
 4. Download the ChromeDriver version matching your browser and configure the path in your environment (https://chromedriver.chromium.org/).
 
 **Note:** Adapt depending on your specific environment and requirements.
@@ -25,9 +25,9 @@ This project showcases my practical test automation skills acquired through the 
 
 1. Clone or download this repository.
 2. Run the pytest suite:
-    python -m pytest
+* python -m pytest
 3. To run a single file
-    python -m pytest test/home_page.py
+* python -m pytest test/home_page.py
 
 ## Authors
 1. https://qaplayground.dev/ created by Marko Simic
