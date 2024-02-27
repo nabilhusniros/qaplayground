@@ -31,5 +31,8 @@ def browser(config):
     # Retrun the WebDriver instance for the setup
     yield driver
 
+    # Delete all cookies before quitting the WebDriver instance
+    driver.delete_all_cookies()
+
     # Quit the WebDriver instance for the cleanup
     driver.quit
