@@ -25,4 +25,3 @@ def  test_verify_account(browser):
 # And the user should see the success message
     result = browser.find_element(By.XPATH, '//main/div/small')
     assert "Success" in result.text
-
