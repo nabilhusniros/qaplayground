@@ -6,7 +6,7 @@ This module contain the verify your account to enter a valid code
 from pages.Verify_Web_Page import QaPlayground
 from selenium.webdriver.common.by import By
 
-def  test_verify_account(browser):
+def test_verify_account(browser):
     qa_playground = QaPlayground(browser)
 
 # Given by the homepage is displayed
